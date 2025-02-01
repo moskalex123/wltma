@@ -29,7 +29,7 @@ const orderStep = ref(0)
 const pizzas = [
     {
         image: 'https://img.freepik.com/free-vector/slice-pizza-melted-floating-cartoon-vector-icon-illustration-food-object-icon-isolated-flat_138676-12745.jpg',
-        name: '----',
+        name: '1111',
         price: 400
     },
     {
